@@ -4,6 +4,7 @@ Install the tap and the current Radmind formula with:
 
 ```sh
 brew tap radmind/tap
+brew trust --formula radmind/tap/radmind
 brew install radmind
 ```
 
