@@ -2,7 +2,7 @@ class Radmind < Formula
   desc "Tools and server for remotely administering Unix file systems"
   homepage "https://github.com/Radmind/radmind"
   url "https://github.com/Radmind/radmind/releases/download/radmind-1.15.0/radmind-1.15.0.tar.gz"
-  sha256 "a4607ca809bff5203e90509deef76d314d40eef4c16eb4bbae3c353688ee4aa0"
+  sha256 "c434825bd25e24adbd3bc208dba6a8d59321581cb32c97163b365e0a0501645a"
   license "BSD-3-Clause"
 
   depends_on "openssl@3"
